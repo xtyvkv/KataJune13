@@ -1,0 +1,16 @@
+C:\Users\15862\source\repos\KataJune13\KataJune13\bin\Debug\net5.0\KataJune13.exe
+C:\Users\15862\source\repos\KataJune13\KataJune13\bin\Debug\net5.0\KataJune13.deps.json
+C:\Users\15862\source\repos\KataJune13\KataJune13\bin\Debug\net5.0\KataJune13.runtimeconfig.json
+C:\Users\15862\source\repos\KataJune13\KataJune13\bin\Debug\net5.0\KataJune13.runtimeconfig.dev.json
+C:\Users\15862\source\repos\KataJune13\KataJune13\bin\Debug\net5.0\KataJune13.dll
+C:\Users\15862\source\repos\KataJune13\KataJune13\bin\Debug\net5.0\KataJune13.pdb
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\KataJune13.csproj.AssemblyReference.cache
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\KataJune13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\KataJune13.AssemblyInfoInputs.cache
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\KataJune13.AssemblyInfo.cs
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\KataJune13.csproj.CoreCompileInputs.cache
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\KataJune13.dll
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\refint\KataJune13.dll
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\KataJune13.pdb
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\KataJune13.genruntimeconfig.cache
+C:\Users\15862\source\repos\KataJune13\KataJune13\obj\Debug\net5.0\ref\KataJune13.dll
