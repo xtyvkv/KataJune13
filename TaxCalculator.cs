@@ -8,6 +8,7 @@ namespace KataJune13
 {
     public class TaxCalculator
     {
+        public const decimal taxRate = .17M;
         public W2Form[] IncomeForms { get; private set; }
 
         public TaxCalculator (W2Form[] newIncomeForms)
@@ -18,7 +19,6 @@ namespace KataJune13
         {
             decimal taxesDue = 0;
             decimal totalIncome = 0;
-            decimal taxRate = .17M;
 
             foreach (var currentIncomeForm in IncomeForms)
             {

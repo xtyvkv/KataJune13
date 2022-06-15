@@ -22,7 +22,7 @@ namespace KataJune13
     // 4. Then we have to write code to bring all this together.
     //    a. Delcare a W2Form[] variable to store the read W2s from the user
     //    b. Call the utility method to get a list of W2s from the user
-    //    c. Create a TaxCalculator instand
+    //    c. Create a TaxCalculator instace
     //    d. call TaxCalculator.ComputeTaxes
     //    e. Display the result
     internal class Program
@@ -30,7 +30,8 @@ namespace KataJune13
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Tax Calculator!");
-            TaxCalculator newTaxCalculator = new TaxCalculator(EnterForm());
+            W2Form[] userForms = EnterForm();
+            TaxCalculator newTaxCalculator = new TaxCalculator(userForms);
             decimal totalTax = newTaxCalculator.ComputeTaxes();
             Console.WriteLine($"Your total taxes due: {totalTax}");
         } 
@@ -58,6 +59,7 @@ namespace KataJune13
                         Console.Write("Please enter Company Name: ");
                         newCompanyName = Console.ReadLine();
                         newForm = new W2Form(newTaxableIncome, newCompanyName);
+                        myForms.Add(newForm); // yay i was missing this line!! add element to list!!!
                     }
                     catch (Exception ex)
                     {
